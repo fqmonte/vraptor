@@ -5,6 +5,6 @@
 <title>VRaptor Blank Project</title>
 </head>
 <body>
-	servidor online!! ${variable} ${linkTo[IndexController].index}
+	Server OK!! ${variable} ${linkTo[IndexController].index}
 </body>
 </html>
